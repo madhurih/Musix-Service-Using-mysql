@@ -1,2 +1,2 @@
-Musix application using h2 database..
+Musix application using mysql database..
 
